@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "CosmosDbName": "functions-sample",
+    "CollectionIn": "Profile",
+    "CollectionOut": "ProfileOut",
+    "CosmosDbConnection": ""
+  }
+}
